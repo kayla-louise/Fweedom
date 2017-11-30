@@ -4,9 +4,13 @@
 	Description: Fweedom Theme
 	Author: Kayla Louise
 	Author URI: http://www.kayla-louise.com
-	Template: Customizr
+	Template: customizr
 	Version: 1.0.0
 	License: GNU General Public License v2 or later
 	Tags: mmj, 420, responsive-layout, accessibility-compliant
 	Text Domain: Fweedom
 */
+
+@import url("../customizr/style.css");
+
+

@@ -13,4 +13,79 @@
 
 @import url("../customizr/style.css");
 
+nav ul{
+	align-content: center;
+}
 
+footer p {
+	color: #ffffff;
+}
+#footer_credits {
+	color: #007FA3;
+}
+
+footer#footer.container-fluid.footer_wrapper {
+	background-color: #78BE20;
+	color: #ffffff;
+	align-content: center;
+}
+
+
+div.social-links {
+	align-content: center;
+}
+
+div#colophon {
+    background-color: #78BE20;
+}
+
+.footer-skin-dark .footer__wrapper .colophon__row {
+	background-color: #78BE20;
+	align-content: center;
+	color: #ffffff;
+}
+
+.navbar-inner .social-block {
+  padding: 0px 20px 0px 10px;
+  *max-width: 270px;
+  /* IE 7 and below */
+  margin: 10px 0;
+}
+.social-block.widget_social a {
+  font-size: 1em;
+}
+.colophon .social-block {
+  margin: 0px;
+  text-align: center;
+}
+.social-block a {
+  color: #5A5A5A;
+  font-size: 1.3em;
+  text-shadow: 0 1px 0 #ffffff;
+  opacity: 0.8;
+  display: inline;
+  background: none;
+  width: inherit;
+  height: inherit;
+  vertical-align: inherit;
+  line-height: inherit;
+  margin: 0px;
+  text-decoration: none;
+  padding-right: 13px;
+  position: relative;
+  top: 2px;
+}
+footer#footer .colophon .credits a[class*=icon-],
+footer#footer .colophon .social-block a {
+  color: #5A5A5A;
+  text-shadow: 0 0px 0 #ffffff;
+  font-size: 1.1em;
+}
+footer#footer .colophon .credits a[class*=icon-] {
+  vertical-align: inherit;
+  position: relative;
+}
+.social-block a:focus,
+.social-block a:active {
+  text-decoration: none;
+}
